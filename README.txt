@@ -1,31 +1,21 @@
-Photon by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Portfolio
 
+This web application is my personal portpfolio, featuring some projects I'm currently working on, and a small about me page. 
 
-A simple (gradient-heavy) single pager that revisits a style I messed with on two
-previous designs (Tessellate and Telephasic). Fully responsive, built on Sass,
-and, as usual, loaded with an assortment of pre-styled elements. Have fun! :)
+**Link to project:** https://nick-sramcik.netlify.app/
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+![Website preview](https://i.imgur.com/9ZfFEty.png)
 
-(* = Not included)
+## How It's Made:
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+**Tech used:** HTML, CSS, JavaScript
 
-AJ
-aj@lkn.io | @ajlkn
+This web application is style via flexbox, and is navigable with basic javascript. It uses media queries to be responsive to any screen size. 
 
+## Optimizations
 
-Credits:
+The contact form doesn't currently work correctly, it needs to be connected to my email on the back end. I'd also like to change the image previews to animated gifs, so they can display more of each website. 
 
-	Demo Images:
-		Unsplash (unsplash.com)
+## Lessons Learned:
 
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+This portfolio page has been challenging for me, because I feel nervous publishing a portfolio that isn't absolutely perfect. Biggest lesson here is not to let perfect be the enemy of good, and that a website with flaws is better than an unpublished website! 
